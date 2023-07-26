@@ -1,4 +1,4 @@
-# Who work in the tech industry ?
+# WHO WORK IN THE TECH INDUSTRY
 
 ## Introduction
 A dashboard created based on a survey made by a Youtuber (Alex th Analyst).
