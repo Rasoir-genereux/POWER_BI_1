@@ -19,7 +19,7 @@ Here are some of them:
 
  ## Data transformation
   The participants had the choice to answer some questions in their own words. That creates many customize answers <br>
-  which can be considered by as unique answers, even if they where similar.For that reason and to facilitate the transformation<br>,
+  which can be considered by as unique answers, even if they where similar.For that reason and to facilitate the transformation,<br>
   we replace those answers by "other". The salary column where by slice and contained a text, which we modifidied by extracting the text and<br>
   calculating the average of each slice.
 
