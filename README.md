@@ -26,6 +26,11 @@ Here are some of them:
   Here are the [raw data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Raw_data.xlsx) and the 
   [transformed data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Transformed_data.xlsx).
 
+  ## Dashboard
+  
+  The [dashboard](/Project_2/Dashboard.pbix) shows
+  
+
 
 
 
