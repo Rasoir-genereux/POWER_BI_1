@@ -28,7 +28,7 @@ Here are some of them:
 
   ## Dashboard
   
-  The [dashboard](/Project_2/Dashboard.pbix) shows
+  The [dashboard](/Project_2/Dashboard.pbix) shows some interesting facts.
 
   ![](/Project_2/Dashboard.png)
   
