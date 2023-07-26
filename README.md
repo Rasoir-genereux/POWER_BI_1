@@ -24,7 +24,7 @@ Here are some of them:
   calculating the average of each slice.
 
   Here are the [raw data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Raw_data.xlsx) and the<br>
-   [transformed data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Transformed_data.xlsx).
+  [transformed data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Transformed_data.xlsx).
 
 
 
