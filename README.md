@@ -29,6 +29,9 @@ Here are some of them:
   ## Dashboard
   
   The [dashboard](/Project_2/Dashboard.pbix) shows
+
+  ![](/Project_2/Dashboard.png)
+  
   
 
 
