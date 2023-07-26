@@ -14,7 +14,8 @@ Here are some of them:
 * Q7 - How difficult was it for you to break into Data?	
 * Q8 - If you were to look for a new job today, what would be the most important thing to you?	
 * Q9 - Male/Female?	
-* Q10 - Current Age		Q12 - Highest Level of Education	
+* Q10 - Current Age
+* Q12 - Highest Level of Education	
 
 
 
