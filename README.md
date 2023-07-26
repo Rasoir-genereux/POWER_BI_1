@@ -2,7 +2,7 @@
 
 ## Introduction
 A dashboard created based on a survey made by a Youtuber (Alex th Analyst).
-The data was gathered trhough an online survey where the Youtuber's community went answer some questions.
+The data was gathered trhough an online survey where the Youtuber's community went answer some questions.<br>
 Here are some of them:
 * Q1 - Which Title Best Fits your Current Role?	
 * Q2 - Did you switch careers into Data?	
