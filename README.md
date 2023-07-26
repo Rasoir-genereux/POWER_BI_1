@@ -23,7 +23,7 @@ Here are some of them:
   we replace those answers by "other". The salary column where by slice and contained a text, which we modifidied by extracting the text and<br>
   calculating the average of each slice.
 
-  Here are the [raw data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Raw_data.xlsx) and the<b>
+  Here are the [raw data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Raw_data.xlsx) and the<br>
    [transformed data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Transformed_data.xlsx).
 
 
