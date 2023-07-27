@@ -30,7 +30,7 @@ Here are some of them:
   
   The [dashboard](/Project_2/Dashboard.pbix) shows some interesting facts.
 
-  
+  ![](/Project_2/Dashboard.png)
   
   
 
