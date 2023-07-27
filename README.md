@@ -1,8 +1,8 @@
 # WHO WORK IN THE TECH INDUSTRY
 
 ## Introduction
-A dashboard created based on a survey made by a Youtuber (Alex th Analyst).
-The data was gathered trhough an online survey where the Youtuber's community went answer some questions.<br>
+A dashboard created based on a survey made by a Youtuber (Alex the Analyst).
+The data was gathered through an online survey where the Youtuber's community went answer some questions.<br>
 Here are some of them:
 * Q1 - Which Title Best Fits your Current Role?	
 * Q2 - Did you switch careers into Data?	
@@ -19,7 +19,7 @@ Here are some of them:
 
  ## Data transformation
   The participants had the choice to answer some questions in their own words. That creates many customize answers <br>
-  which can be considered by as unique answers, even if they where similar.For that reason and to facilitate the transformation,<br>
+  which can be considered when sorting as unique answers, even if they where similar.For that reason, and to facilitate the transformation,<br>
   we replace those answers by "other". The salary column where by slice and contained a text, which we modifidied by extracting the text and<br>
   calculating the average of each slice.
 
