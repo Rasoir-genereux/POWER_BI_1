@@ -34,7 +34,7 @@ Here are some of them:
   Nevertheless, the average salary is quite similar between the two genders, which means that employers respect the level of each employee <br> 
   regardless to the gender. And yet, man receive higher salary than women.
   At work, they are quite satisfied with their work/life balance, but they would like better salary if they had the choice.
-  Some of them would like more remote work as it is more and more normal nowadays. The majority of the  participants have a bachelor's degree (52%) <br>
+  Some of them would like more remote work as it is more and more normal nowadays. The majority of the  participants have a bachelor's degree (52%)
   and a Master's degree. Furthermore, they are, for the most part , Data analyst. That can correlate with the percentage of Bachelors' degree, <br>
   since a higher education is induces higher jobs.
 
