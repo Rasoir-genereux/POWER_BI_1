@@ -29,6 +29,14 @@ Here are some of them:
  ## Dashboard
   
   The [dashboard](/Project_2/Dashboard.pbix) shows some interesting facts.
+  Firstly, I would like to remind that this text is only based on the Dashboard. The results can be different with different dataset.<br>
+  Most worker in the industry (74%) are male and that follows the tendency in many other industries.<br>
+  Nevertheless, the average salary is quite similar between the two genders, which means that employers respect the level of each employee <br> 
+  regardless to the gender. And yet, man receive higher salary than women.
+  At work, they are quite satisfied with their work/life balance, but they would like better salary if they had the choice.
+  Some of them would like more remote work as it is more and more normal nowadays. The majority of the  participants have a bachelor's degree (52%) <br>
+  and a Master's degree. Furthermore, they are, for the most part , Data analyst. That can correlate with the percentage of Bachelors' degree, <br>
+  since a higher education is induces higher jobs.
 
   
   ![](Project_2/Dashboard.png)
