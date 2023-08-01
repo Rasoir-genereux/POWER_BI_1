@@ -1,8 +1,8 @@
-# WHO WORK IN THE TECH INDUSTRY
+# WHO WORKS IN THE TECH INDUSTRY
 
 ## Introduction
-A dashboard created based on a survey made by a Youtuber (Alex the Analyst).
-The data was gathered through an online survey where the Youtuber's community went answer some questions.<br>
+A dashboard was created based on a survey made by a Youtuber (Alex the Analyst).
+The data was gathered through an online survey where the Youtuber's community went to answer some questions.<br>
 Here are some of them:
 * Q1 - Which Title Best Fits your Current Role?	
 * Q2 - Did you switch careers into Data?	
@@ -19,8 +19,8 @@ Here are some of them:
 
  ## Data transformation
   The participants had the choice to answer some questions in their own words. That creates many customize answers <br>
-  which can be considered when sorting as unique answers, even if they where similar.For that reason, and to facilitate the transformation,<br>
-  we replace those answers by "other". The salary column where by slice and contained a text, which we modifidied by extracting the text and<br>
+  which can be considered when sorting as unique answers, even if they were similar.For that reason, and to facilitate the transformation,<br>
+  we replace those answers with "other". The salary column whereby slice and contained a text, which we modified by extracting the text and<br>
   calculating the average of each slice.
 
   Here are the [raw data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Raw_data.xlsx) and the 
@@ -29,14 +29,14 @@ Here are some of them:
  ## Dashboard
   
   The [dashboard](/Project_2/Dashboard.pbix) shows some interesting findings. <br>
-  Firstly, I would like to remind that this text is only based on the Dashboard. The results can be different with different dataset.<br>
-  Most worker in the industry (74%) are male and that follows the tendency in many other industries.<br>
+  Firstly, I would like to remind you that this text is only based on the Dashboard. The results can be different with different datasets.<br>
+  Most workers in the industry (74%) are male and that follows the tendency in many other industries.<br>
   Nevertheless, the average salary is quite similar between the two genders, which means that employers respect the level of each employee <br> 
-  regardless to the gender. And yet, man receive higher salary than women.
-  At work, they are quite satisfied with their work/life balance, but they would like better salary if they had the choice.
-  Some of them would like more remote work as it is more and more normal nowadays. The majority of the  participants has a bachelor's degree (52%)
-  and a Master's degree. Furthermore, they are, for the most part , Data analyst. That can correlate with the percentage of Bachelors' degree, <br>
-  since a higher education is induces higher jobs.
+  regardless of gender. And yet, men receive higher salaries than women.
+  At work, they are quite satisfied with their work/life balance, but they would like a better salary if they had the choice.
+  Some of them would like more remote work as it is more and more normal nowadays. The majority of the  participants have a bachelor's degree (52%)
+  and a Master's degree. Furthermore, they are, for the most part, Data analysts. That can correlate with the percentage of Bachelor's degree
+  since a higher education induces higher jobs.
 
   
   ![](Project_2/Dashboard.png)
