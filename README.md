@@ -17,7 +17,7 @@ Here are some of them:
 * Q10 - Current Age
 * Q12 - Highest Level of Education
 
- ## Data transformation
+## Data transformation
   The participants had the choice to answer some questions in their own words. That creates many customize answers <br>
   which can be considered when sorting as unique answers, even if they were similar.For that reason, and to facilitate the transformation,<br>
   we replace those answers with "other". The salary column whereby slice and contained a text, which we modified by extracting the text and<br>
@@ -26,7 +26,7 @@ Here are some of them:
   Here are the [raw data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Raw_data.xlsx) and the 
   [transformed data](https://github.com/Rasoir-genereux/Project_2/blob/main/Project_2/Transformed_data.xlsx).
 
- ## Dashboard
+## Dashboard
   
   The [dashboard](/Project_2/Dashboard.pbix) shows some interesting findings. <br>
   Firstly, I would like to remind you that this text is only based on the Dashboard. The results can be different with different datasets.<br>
